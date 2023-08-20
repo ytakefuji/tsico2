@@ -23,5 +23,5 @@ Enter the end year-month (e.g. 2023-3): 2014-3
 
 The result will be popped on the screen.
 
-<img src="https://github.com/ytakefuji/blob/main/tsico2/data/2007-3-2014-3.png" width=640 height=480>
+<img src="https://github.com/ytakefuji/tsico2/blob/main/tsico2/data/2007-3-2014-3.png" width=640 height=480>
 
