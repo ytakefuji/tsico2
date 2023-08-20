@@ -1,9 +1,9 @@
 # tsico2
 This is under review.
 
-tsico2 is a PyPI tool to visualize two monthly values such as total solar irradience (TSI) and global CO2.
+tsico2 is a tool available on PyPI that allows users to visualize monthly values of Total Solar Irradiance (TSI) and global CO2 levels. Users can specify a start and end date for the period they wish to visualize, and the tool will display a graph with four lines representing the raw and regression values for both TSI and CO2. 
 
-User is allowed to specify the period of start-date and end-date to visualize TSI and CO2 values with calcuated R-squared and p-value. The graph displays 4 lines: TSI raw and regression lines and CO2 raw and regression lines.
+Additionally, the calculated R-squared and p-value for the regression lines are also displayed on the graph. This provides users with an easy and convenient way to analyze trends in TSI and CO2 levels over time.
 
 # How to run tsico2
 
@@ -21,7 +21,8 @@ Enter end-date for March 2014
 
 Enter the end year-month (e.g. 2023-3): 2014-3
 
-The result will be popped on the screen. The solid lines indicate CO2 raw and regression lines while dotted lines for TSI raw and regression.
+The result will be popped on the screen. 
+The solid lines are the original and regression lines for CO2 and the dotted lines are the original and regression lines for TSI.
 
 <img src="https://github.com/ytakefuji/tsico2/blob/main/2007-3-2014-3.png" width=640 height=480>
 
