@@ -21,7 +21,7 @@ Enter end-date, March 2014
 
 Enter the end year-month (e.g. 2023-3): 2014-3
 
-The result will be poped on the screen.
+The result will be popped on the screen.
 
 <img src="2007-3-2014-3.png" width=640 height=480>
 
