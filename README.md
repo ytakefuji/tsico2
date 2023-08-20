@@ -21,7 +21,7 @@ Enter end-date for March 2014
 
 Enter the end year-month (e.g. 2023-3): 2014-3
 
-The result will be popped on the screen. The solid lines indicate CO2 raw and regression while dotted lines for TSI raw and regression lines.
+The result will be popped on the screen. The solid lines indicate CO2 raw and regression lines while dotted lines for TSI raw and regression.
 
 <img src="https://github.com/ytakefuji/tsico2/blob/main/2007-3-2014-3.png" width=640 height=480>
 
