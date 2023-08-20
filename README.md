@@ -13,11 +13,11 @@ $ pip install tsico2
 
 $ tsico2
 
-Enter start-date, March 2007 in this example
+Enter start-date for March 2007 in this example
 
 Enter the beginning year-month (e.g. 1978-11): 2007-3
 
-Enter end-date, March 2014
+Enter end-date for March 2014
 
 Enter the end year-month (e.g. 2023-3): 2014-3
 
