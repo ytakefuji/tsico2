@@ -24,5 +24,5 @@ Enter the end year-month (e.g. 2023-3): 2014-3
 The result will be popped on the screen. 
 The solid lines are the original and regression lines for CO2 and the dotted lines are the original and regression lines for TSI.
 
-<img src="https://github.com/ytakefuji/tsico2/blob/main/2007-3-2014-3.png" width=640 height=480>
+<img src="https://github.com/ytakefuji/tsico2/raw/main/2007-3-2014-3.png" width=640 height=480>
 
